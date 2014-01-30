@@ -1,0 +1,10 @@
+Mesh workshop
+=============
+
+  $ landslide -i mesh-workshop.rst 
+  Adding   mesh-workshop.rst (restructuredtext)
+  Embedded image adhoc_netz_wikipedia.png
+  Generated file: presentation.html
+  $ chromium presentation.html
+
+see live http://cholin.github.io/mesh-workshop/presentation.html
