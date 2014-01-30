@@ -496,3 +496,15 @@ Konfiguriert dein OpenVPN sowie Policy Routing
 Fragen?
 =======
 
+
+----
+
+Lizenz
+======
+
+* Creative Commons Namensnennung
+* Nicht-kommerziell
+* Weitergabe unter gleichen Bedingungen 4.0 International Lizenz
+
+.. image:: http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+
